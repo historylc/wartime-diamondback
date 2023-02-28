@@ -2,7 +2,7 @@
 layout: narrative
 title: Pyle Named to Help in Post-War Work
 author: ARTICLE AUTHOR
-editor: YOUR NAME
+editor: Lauren Cain
 permalink: /article2/
 ---
 Dr. J. Freeman Pyle, Dean of the  
