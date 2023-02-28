@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: ARTICLE TITLE
+title: Pyle Named to Help in Post-War Work
 author: ARTICLE AUTHOR
 editor: YOUR NAME
 permalink: /article2/
